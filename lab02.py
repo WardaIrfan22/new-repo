@@ -344,7 +344,7 @@ class GameWindow:
         
 #-----------------------------------
 #my name is warda
-
+#my occupation is se
 
 #-----------------------------------
 
