@@ -343,9 +343,7 @@ class GameWindow:
         self.canvas.after(1000, self.OneSecTimer)
         
 #-----------------------------------
-
-if __name__ == '__main__':
-    game = GameWindow()
+#my name is warda
 
 
 #-----------------------------------
